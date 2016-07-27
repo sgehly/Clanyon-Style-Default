@@ -1,0 +1,15 @@
+body{
+	background:#efefef;
+}
+.navbar{
+	border-radius:0px !important;
+}
+.boxIt{
+	background:white;
+	border:1px solid lightgray;
+	border-radius:2px;
+	padding:10px;
+	margin-top:10px;
+}
+.bodyContent{
+}
